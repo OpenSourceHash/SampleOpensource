@@ -1,6 +1,16 @@
 # SampleOpensource
 
-Installation : Android Studio (or Gradle) No need to clone the repository or download any files -- just add this line to your app's build.gradle inside the dependencies section:
+##Steps to intigrate our API
+
+1) Register your account with valid Email address from http://209.58.136.23:2001.
+
+2) Login with authentication details.
+
+3) Once admin activate your account you can access API_KEY.
+
+4) Once account activated you can find API_KEY in settings tab.
+
+5) Installation : Android Studio (or Gradle) No need to clone the repository or download any files -- just add this line to your app's build.gradle inside the dependencies section:
 
 ```
  compile 'com.opensource:opendata:0.0.14'
@@ -13,15 +23,6 @@ Note: We recommend you to use
 ```
  compile 'com.opensource:opendata:1.+'
 ```
-Firstly to use this library you need to generete your application api key from http://209.58.136.23:2001
-
-Creating API key To generate your key please do follow the below steps:
-
-Registration process :-
-
-Enter your details to create account Name (Length should not exceed 40 characters) Company (Company name) Contact Number (Contact should be integers only) Email Address (Valid email address) Password(Password should be min 6 characters) You will get an OTP to your email address which you have given Enter your 6 digit OTP there, If your OTP verified once, your account will be created You have to login to check you account status
-
-Login Process :- Enter your login credentials. Email Address (Email address, with which you have registered) Password Once your credentials verified, you have logged in to your account. Overview page will be displayed. Your account status will be in Review state until your account will be approved by the admin After admin approval your account will be in active state and will be provided a API key. You can check your API key in Settings page.
 
 Usage : To initiate our library, place the below code at initial activity of your application(ex: splash activity).
 
