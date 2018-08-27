@@ -7,6 +7,7 @@
 2) Login with authentication details.
 
 3) Once admin activate your account you can access API_KEY.
+(Note :- Usually it will take 24 hours to aprove your account)
 
 4) Once account activated you can find API_KEY in settings tab.
 
