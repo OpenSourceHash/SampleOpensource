@@ -2,7 +2,7 @@
 
 ##Steps to intigrate our API
 
-1) Register your account with valid Email address from http://209.58.136.23:2001.
+1) Register your account with valid Email address from http://trudata.io
 
 2) Login with authentication details.
 
