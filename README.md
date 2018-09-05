@@ -1,6 +1,6 @@
 # SampleOpensource
 
-##Steps to intigrate our API
+## Steps to intigrate our API
 
 1) Register your account with valid Email address from http://trudata.io
 
@@ -14,9 +14,9 @@
 5) Installation : Android Studio (or Gradle) No need to clone the repository or download any files -- just add this line to your app's build.gradle inside the dependencies section:
 
 ```
- compile 'com.opensource:opendata:0.0.14'
+ compile 'com.opensource:opendata:1.0.0'
                     (or)
- implementation 'com.opensource:opendata:0.0.14' if you are using Android Studio version 3.0
+ implementation 'com.opensource:opendata:1.0.0' if you are using Android Studio version 3.0
 ```
 
 Note: We recommend you to use
